@@ -1,0 +1,1 @@
+create a table employee with attributes name,age,department insert the values using jdbc
